@@ -1,6 +1,8 @@
 QUENCH: The Multimodal Bartending Robot
 CS 3671 - Prototyping Intelligent Devices Section A Spring 2024
 
+Final Prototype Demonstration: https://youtu.be/tKbe3_PHH2k
+
 Hardware Used:
 - 5V Relay Board
 - 3 Peristaltic Pumps
